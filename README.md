@@ -17,7 +17,7 @@ As the previous, any kinds of bug will be accept.
 
 Just learn from these bugs instead.
 
-## Classicqal buga
+## Classical bugs
 
 * [bscp-0000 the BUG](bscp-00/0/0.md)
 * [bscp-???]()
